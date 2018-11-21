@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/shabbir-taulia/ipsec-prometheus/cmd"
+	"github.com/shabbir-taulia/ipsec_prometheus/cmd"
 )
 
 func main() {

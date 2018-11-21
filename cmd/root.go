@@ -4,7 +4,7 @@ import (
 	"github.com/spf13/cobra"
 	"fmt"
 	"os"
-	"github.com/shabbir-taulia/ipsec-prometheus/ipsecexporter"
+	"github.com/shabbir-taulia/ipsec_prometheus/ipsecexporter"
 )
 
 const (
